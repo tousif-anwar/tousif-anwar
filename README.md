@@ -12,10 +12,10 @@ My work sits at the intersection of **software engineering, AI, data systems, an
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat-square&logo=vercel&logoColor=white)](YOUR-PORTFOLIO-URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tousif-anwar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat-square&logo=vercel&logoColor=white)]((https://tousif-anwar.github.io/))
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:tanwar@wgu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tousif-anwar)
 
 ---
 
@@ -198,48 +198,6 @@ Power BI, Tableau, Amazon QuickSight, Excel, Google Analytics
 
 **Analytics Skills:**  
 KPI Design, Executive Dashboards, Forecasting, Statistical Analysis, A/B Testing, Business Reporting, Data Visualization, Financial Analytics
-
----
-
-## Featured Project Areas
-
-### Intelligent CRM Platform
-
-A full-stack CRM platform that combines customer management, sales pipelines, lead tracking, analytics, automation, and AI-powered insights.
-
-**Stack:** React, TypeScript, Node.js, PostgreSQL, Python, Docker, AWS
-
----
-
-### Loan Approval Prediction System
-
-A machine learning system for predicting loan approval outcomes using borrower, credit, income, and financial data.
-
-**Stack:** Python, Pandas, NumPy, scikit-learn, PostgreSQL, Streamlit, Power BI
-
----
-
-### Business Intelligence Analytics Platform
-
-An end-to-end analytics project involving data ingestion, warehousing, transformation, dashboarding, reporting, and KPI scorecards.
-
-**Stack:** SQL, Python, BigQuery, Power BI, Tableau, dbt
-
----
-
-### AI Mortgage Origination Assistant
-
-An AI-powered platform concept designed to streamline borrower intake, soft credit analysis, home valuation, pricing scenarios, underwriting guideline analysis, and loan recommendation workflows.
-
-**Stack:** Python, FastAPI, React, LLMs, APIs, Cloud Services
-
----
-
-### Computer Vision & Deep Learning Projects
-
-Deep learning projects involving image classification, transfer learning, object detection, low-light image enhancement, and multimodal computer vision.
-
-**Stack:** PyTorch, TensorFlow, OpenCV, YOLO, CNNs, ResNet
 
 ---
 
