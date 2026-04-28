@@ -61,7 +61,7 @@ I am especially interested in:
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,cpp,c,html,css,sql,r,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,cpp,c,html,css,bash" />
 </p>
 
 **Languages:**  
@@ -168,48 +168,6 @@ KPI Design, Executive Dashboards, Forecasting, Statistical Analysis, A/B Testing
 
 ---
 
-## Featured Project Areas
-
-### Intelligent CRM Platform
-
-A full-stack CRM platform that combines customer management, sales pipelines, lead tracking, analytics, automation, and AI-powered insights.
-
-**Tech Stack:** React, TypeScript, Node.js, PostgreSQL, Python, Docker, AWS
-
----
-
-### Loan Approval Prediction System
-
-A machine learning system for predicting loan approval outcomes using borrower, credit, and financial data.
-
-**Tech Stack:** Python, Pandas, NumPy, scikit-learn, PostgreSQL, Streamlit, Power BI
-
----
-
-### Business Intelligence Analytics Platform
-
-An end-to-end analytics project involving data ingestion, warehousing, transformation, dashboarding, reporting, and KPI scorecards.
-
-**Tech Stack:** SQL, Python, BigQuery, Power BI, Tableau, dbt
-
----
-
-### AI Mortgage Origination Assistant
-
-An AI-powered platform concept designed to streamline borrower intake, soft credit analysis, home valuation, pricing scenarios, underwriting guideline analysis, and loan recommendation workflows.
-
-**Tech Stack:** Python, FastAPI, React, LLMs, APIs, Cloud Services
-
----
-
-### Computer Vision & Deep Learning Projects
-
-Deep learning projects involving image classification, transfer learning, object detection, low-light image enhancement, and multimodal computer vision.
-
-**Tech Stack:** PyTorch, TensorFlow, OpenCV, YOLO, CNNs, ResNet
-
----
-
 ## Things I Love
 
 - Building AI-powered software products
@@ -220,27 +178,6 @@ Deep learning projects involving image classification, transfer learning, object
 - Cloud-native architecture
 - Dashboards, analytics, and data storytelling
 - Learning new technologies and turning ideas into real products
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=github-light&hide_border=true" />
-</p>
 
 ---
 
