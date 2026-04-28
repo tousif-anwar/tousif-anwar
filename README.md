@@ -1,47 +1,39 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/)
 
-<h1 align="center">Hi, I'm Tousif Anwar 👋</h1>
+# Tousif Anwar
 
-<h3 align="center">
-  Software Engineer • AI/ML Builder • Data Scientist • Business Intelligence Engineer
-</h3>
+**Software Engineer | AI/ML Builder | Data Scientist | Business Intelligence Engineer**
 
-<p align="center">
-  I build intelligent, scalable, data-driven software systems that combine full-stack engineering, machine learning, cloud architecture, analytics, and automation.
-</p>
+I build intelligent, scalable, data-driven software systems across full-stack engineering, machine learning, cloud architecture, business intelligence, and financial technology.
 
-<p align="center">
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+My work sits at the intersection of **software engineering, AI, data systems, and business automation**. I enjoy building practical products that turn data into decisions, workflows into automation, and ideas into production-ready applications.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-black?style=flat-square&logo=vercel&logoColor=white)](YOUR-PORTFOLIO-URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
 
 ---
 
 ## About Me
 
-I am a software engineer, data scientist, and business intelligence professional with a strong background in computer science, finance, analytics, and AI systems.
+I am a software engineer and data professional with experience across computer science, finance, analytics, artificial intelligence, and business intelligence.
 
-I enjoy building products that connect software engineering with real-world business impact. My work focuses on full-stack applications, machine learning systems, financial technology, cloud-native platforms, data engineering pipelines, dashboards, and intelligent automation.
+I specialize in building systems that combine:
 
-I am especially interested in:
-
-- AI-powered financial technology
 - Full-stack software engineering
 - Machine learning and deep learning
-- Business intelligence and analytics
-- Data engineering and cloud systems
-- Distributed systems and scalable architecture
-- CRM, lending, underwriting, and decision automation platforms
+- Data engineering and analytics
+- Cloud-native application development
+- Business intelligence dashboards
+- Financial technology and decision automation
+- CRM, lending, underwriting, and revenue operations systems
+
+I am especially interested in building intelligent platforms that improve decision-making, automate complex workflows, and create measurable business impact.
 
 ---
 
@@ -49,8 +41,8 @@ I am especially interested in:
 
 - Building full-stack AI-powered applications
 - Developing intelligent CRM and financial technology systems
-- Designing machine learning models for loan approval and credit risk
-- Creating business intelligence dashboards and executive reporting systems
+- Designing machine learning models for loan approval, credit risk, and underwriting support
+- Creating business intelligence dashboards and executive reporting platforms
 - Improving cloud, DevOps, and distributed systems skills
 - Building portfolio projects that combine software engineering, AI, and analytics
 
@@ -60,26 +52,40 @@ I am especially interested in:
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,cpp,c,html,css,bash" />
-</p>
-
-**Languages:**  
-Python, Java, JavaScript, TypeScript, C#, C++, C, SQL, R, Bash, HTML, CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,materialui,vite,webpack" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-**Frontend:**  
+**Frontend Stack:**  
 React, Next.js, Vue.js, AngularJS, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Sass, Material UI, Shadcn/UI, D3.js, TensorFlow.js
 
-**State Management & Data Fetching:**  
-Redux Toolkit, NgRx, React Query / TanStack Query, Apollo Client
+**State Management:**  
+Redux Toolkit, NgRx
+
+**Data Fetching:**  
+React Query / TanStack Query, Apollo Client
 
 **Forms & Validation:**  
 React Hook Form, Formik, Zod, Yup
@@ -90,15 +96,26 @@ React Router, Next.js App Router, Vue Router
 **Build Tools:**  
 Vite, Webpack, Turbopack, Rollup
 
+**Testing:**  
+Jest, Vitest, React Testing Library, Cypress, Playwright
+
+**Package Managers:**  
+npm, Yarn, pnpm
+
 ---
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet,java,python" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Backend:**  
+**Backend Stack:**  
 Node.js, Express.js, Python, Django, Flask, FastAPI, Java, Spring Boot, C#, .NET
 
 **API Development:**  
@@ -106,11 +123,18 @@ REST APIs, GraphQL, Microservices, Authentication, Authorization, JWT, OAuth, AP
 
 ---
 
-### Databases & Data Engineering
+### Databases, Data Engineering & Warehousing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 **Databases:**  
 PostgreSQL, MySQL, SQL Server, MongoDB, Redis, SQLite, Oracle, NoSQL Databases
@@ -122,9 +146,14 @@ ETL/ELT Pipelines, Data Warehousing, Data Modeling, Dimensional Modeling, BigQue
 
 ### AI, Machine Learning & Deep Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Machine Learning:**  
 Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Predictive Modeling, Credit Risk Modeling
@@ -139,26 +168,30 @@ LLM Applications, AI Automation, Prompt Engineering, AI Agents, Applied LLM Syst
 
 ### Cloud, DevOps & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,nginx" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Cloud Platforms:**  
+**Cloud:**  
 AWS, Azure, Google Cloud Platform
 
-**DevOps & Infrastructure:**  
+**DevOps:**  
 Docker, Kubernetes, GitHub Actions, CI/CD, Linux, Nginx, Cloud Deployment, Containerization, Monitoring, Scalable Architecture
 
 ---
 
 ### Business Intelligence & Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-005F9E?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
 **BI Tools:**  
 Power BI, Tableau, Amazon QuickSight, Excel, Google Analytics
@@ -168,24 +201,58 @@ KPI Design, Executive Dashboards, Forecasting, Statistical Analysis, A/B Testing
 
 ---
 
-## Things I Love
+## Featured Project Areas
 
-- Building AI-powered software products
-- Solving business problems with data
-- Full-stack engineering
-- Machine learning and deep learning
-- Financial technology and lending systems
-- Cloud-native architecture
-- Dashboards, analytics, and data storytelling
-- Learning new technologies and turning ideas into real products
+### Intelligent CRM Platform
+
+A full-stack CRM platform that combines customer management, sales pipelines, lead tracking, analytics, automation, and AI-powered insights.
+
+**Stack:** React, TypeScript, Node.js, PostgreSQL, Python, Docker, AWS
 
 ---
 
-## Areas of Expertise
+### Loan Approval Prediction System
+
+A machine learning system for predicting loan approval outcomes using borrower, credit, income, and financial data.
+
+**Stack:** Python, Pandas, NumPy, scikit-learn, PostgreSQL, Streamlit, Power BI
+
+---
+
+### Business Intelligence Analytics Platform
+
+An end-to-end analytics project involving data ingestion, warehousing, transformation, dashboarding, reporting, and KPI scorecards.
+
+**Stack:** SQL, Python, BigQuery, Power BI, Tableau, dbt
+
+---
+
+### AI Mortgage Origination Assistant
+
+An AI-powered platform concept designed to streamline borrower intake, soft credit analysis, home valuation, pricing scenarios, underwriting guideline analysis, and loan recommendation workflows.
+
+**Stack:** Python, FastAPI, React, LLMs, APIs, Cloud Services
+
+---
+
+### Computer Vision & Deep Learning Projects
+
+Deep learning projects involving image classification, transfer learning, object detection, low-light image enhancement, and multimodal computer vision.
+
+**Stack:** PyTorch, TensorFlow, OpenCV, YOLO, CNNs, ResNet
+
+---
+
+## What I Like Building
 
 ```text
-Software Engineering      Full-Stack Development      AI & Machine Learning
-Data Science              Business Intelligence       Data Engineering
-Cloud Computing           DevOps                      Financial Technology
-CRM Systems               Predictive Analytics        Distributed Systems
-Automation                API Design                  Dashboard Development
+AI-powered software products
+Full-stack web applications
+Financial technology platforms
+Machine learning systems
+Business intelligence dashboards
+Data engineering pipelines
+Cloud-native applications
+CRM and sales automation tools
+Predictive analytics systems
+Decision automation platforms
